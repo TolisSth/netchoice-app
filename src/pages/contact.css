@@ -1,0 +1,41 @@
+.contact-page{
+	background-image: url("../assets/recycle.jpg");
+	position: absolute; 
+	right: 0; 
+	left: 0; 
+	top: 0; 
+	bottom: 0; 
+}
+
+.contact-form{
+	margin: 5%; 
+	padding: 1% 5% 3% 5%; 
+	text-align: center; 
+	background-color: #C4A484; 
+	color: white; 
+	border-radius: 15px; 
+}
+
+input { 
+	margin: 1% 0 1% 0; 
+	border: 2px solid black; 
+	width: 30%; 
+	border-radius: 15px;
+}
+
+textarea{ 
+	margin: 1% 0 1% 0; 
+	border: 2px solid black; 
+	border-radius: 15px; 
+	width: 30%; 
+}
+
+button{ 
+	color: white; 
+	background-color: green; 
+	font-size: 20px;
+	margin: 2% 0 1% 0; 
+	border: 2px solid white; 
+	width: 30%; 
+	border-radius: 15px;
+}

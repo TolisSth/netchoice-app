@@ -1,0 +1,36 @@
+.about-us-page{
+	background-image: url("../assets/recycle.jpg");
+	right: 0; 
+	top: 0; 
+	left: 0;
+	bottom: 0; 
+}
+
+.rounded-panel{
+	color: white; 
+	background-color: #C4A484; 
+	margin: 5% 5% 0% 5%; 
+	padding: 5%; 
+	border-radius: 15px;  
+}
+
+.recycle-emoji{
+	text-align: center; 
+}
+
+.title{
+	text-align: center; 
+}
+
+.about-us-paragraph{
+	text-align: center;
+	margin-left: 5%; 
+	margin-right: 5%; 
+}
+
+hr {
+	color: white; 
+	border: 3px solid white; 
+	border-radius: 2%; 
+	width: 50%; 
+}
