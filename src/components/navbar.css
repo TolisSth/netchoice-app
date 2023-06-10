@@ -1,0 +1,23 @@
+a { 
+	text-decoration: none; 
+}
+
+.bar {
+  background-color: #C4A484;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 10px;
+}
+
+.about,
+.contact,
+.market {
+  text-decoration: none;
+  color: white;
+  margin: 0 10px;
+}
+
